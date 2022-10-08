@@ -1,0 +1,12 @@
+# ignore ALL .exe files
+*.exe
+
+# ignore ALL .html files
+*.html
+
+# ignore ALL WASM files
+*.wasm
+*_WASM.js
+
+# ignore ALL vscode files
+*.vscode 
