@@ -10,3 +10,5 @@
 
 # ignore ALL vscode files
 *.vscode 
+
+*.txt
