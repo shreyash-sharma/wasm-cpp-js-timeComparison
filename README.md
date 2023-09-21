@@ -23,11 +23,11 @@
 ![extracted_image_1](https://github.com/shreyash-sharma/wasm-cpp-js-timeComparison/assets/14334982/7b8070e9-cbeb-4fa8-b0ad-be42a08d2933)
 
 
-### MergeSort Performance
+### SelectionSort Performance
 ![extracted_image_2](https://github.com/shreyash-sharma/wasm-cpp-js-timeComparison/assets/14334982/18398177-a7b7-44e8-bf30-117f7343d7fd)
 
 
-### SelectionSort Performance
+### MergeSort Performance
 ![extracted_image_3](https://github.com/shreyash-sharma/wasm-cpp-js-timeComparison/assets/14334982/0cb9a436-c4d9-4f62-873d-9aab008393ed)
 
 ### BubbleSort Performance
